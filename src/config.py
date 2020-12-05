@@ -20,5 +20,4 @@ def create_api():
     except Exception as e:
         logger.error("Error creating API", exc_info=True)
         raise e
-    logger.info("API created")
     return api
