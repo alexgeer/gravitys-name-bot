@@ -1,0 +1,7 @@
+setEnv.bat
+runImage.sh
+runDocker.bat
+ec2
+old
+build
+venv
